@@ -1,1 +1,2 @@
 # software_system_analyst
+We have a file with all the measurements about a Household Electric Power Consumption(the dataset is from kaggle). The program reads all the information from the file. The user is able to choose the season, the month, the day of the week and the time of the day he wants to check-see the consumption of the kitchen or the laundry. Also he can ask the sum or the average consumption of that particular time.
